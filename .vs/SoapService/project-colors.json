@@ -5,7 +5,12 @@
       "ProjectGuid": "c7b4a00a-aa12-456f-a769-6424d0345267",
       "DisplayName": "EmpSite",
       "ColorIndex": 0
+    },
+    "b077ec38-a3f0-4703-8def-55b3c1fb7e0a": {
+      "ProjectGuid": "b077ec38-a3f0-4703-8def-55b3c1fb7e0a",
+      "DisplayName": "EmpClient",
+      "ColorIndex": 1
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 2
 }

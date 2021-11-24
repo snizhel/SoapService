@@ -1,0 +1,11 @@
+D:\repos\SoapService\EmpClient\bin\Debug\EmpClient.exe.config
+D:\repos\SoapService\EmpClient\bin\Debug\EmpClient.exe
+D:\repos\SoapService\EmpClient\bin\Debug\EmpClient.pdb
+D:\repos\SoapService\EmpClient\obj\Debug\EmpClient.csproj.AssemblyReference.cache
+D:\repos\SoapService\EmpClient\obj\Debug\EmpClient.csproj.SuggestedBindingRedirects.cache
+D:\repos\SoapService\EmpClient\obj\Debug\EmpClient.EmpForm.resources
+D:\repos\SoapService\EmpClient\obj\Debug\EmpClient.Properties.Resources.resources
+D:\repos\SoapService\EmpClient\obj\Debug\EmpClient.csproj.GenerateResource.cache
+D:\repos\SoapService\EmpClient\obj\Debug\EmpClient.csproj.CoreCompileInputs.cache
+D:\repos\SoapService\EmpClient\obj\Debug\EmpClient.exe
+D:\repos\SoapService\EmpClient\obj\Debug\EmpClient.pdb
